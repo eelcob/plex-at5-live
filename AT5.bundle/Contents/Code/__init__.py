@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 import os
 from string import ascii_uppercase
-import httplib
-
 
 PLUGIN_TITLE   = 'AT5 Live'
 
